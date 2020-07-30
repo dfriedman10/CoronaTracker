@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Test1</string>
+
+    <string name="editHint">Enter a country/continent</string>
+
+    <string name="label1">Total Cases: </string>
+    <string name="label2">Active Cases: </string>
+    <string name="label3">New Cases Today: </string>
+    <string name="label4">Total Deaths: </string>
+    <string name="label5">New Deaths Today: </string>
+    <string name="label6">Total Recovered: </string>
+
+    <string-array name="labels">
+        <item>@string/label1</item>
+        <item>@string/label2</item>
+        <item>@string/label3</item>
+        <item>@string/label4</item>
+        <item>@string/label5</item>
+        <item>@string/label6</item>
+    </string-array>
+</resources>
